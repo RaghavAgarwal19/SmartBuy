@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">SmartBuy</string>
+    <string name="bid">My Bids</string>
+    <string name="profile">My Profile</string>
+    <string name="wishlist">My Wishlist</string>
+    <string name="orders">My Orders</string>
+    <string name="sell">Sell on SB</string>
+    <string name="about">About Us</string>
+    <string name="contact">Contact Us</string>
+    <string name="new_uswer_register">New Uswer? Register</string>
+    <string name="create_a_new_account">Create a New Account</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="create_account">Create Account</string>
+    <string name="repeat_password">Repeat Password</string>
+    <string name="home">Home</string>
+    <string name="log_out">Log Out</string>
+    <string name="electronics">Electronics</string>
+    <string name="furniture">Furniture</string>
+    <string name="vehicles">Vehicles</string>
+    <string name="fashion">Fashion</string>
+    <string name="books">Books</string>
+    <string name="items">My Items</string>
+    <string name="make_bid">Make a Bid</string>
+</resources>
